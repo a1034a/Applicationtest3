@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
 
         val branch="1"
 
+        val tag="1"
+
     }
 
 }
